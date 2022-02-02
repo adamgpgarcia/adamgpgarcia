@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @adamgpgarcia
-- 👀 I’m interested in Python, C++, Django, and SQL.
+- 👀 I’m interested in Python, C++, Dart, Django, Flutter and MySQL.
 
 
 <!---
